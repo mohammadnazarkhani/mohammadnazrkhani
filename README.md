@@ -1,13 +1,17 @@
 ## 👋 Hi there! I'm Mohammad Nazarkhani
 
-I'm a passionate software engineer from Golestan, Iran, with a keen interest in backend development and system architecture. I specialize in building scalable and efficient applications using technologies like .NET, C#, and ASP.NET Core.
+🎓 7th-semester CS student | Aspiring AI/ML Engineer  
+💻 Experienced in C#/.NET | Exploring Python & Machine Learning  
+📊 Currently learning: Data Analysis, Machine Learning  
+🚀 Projects: AI/ML experiments, .NET web apps  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/itsnazarkhani/) | [Email](mailto:itsnazarkhani@gmail.com)
 
 ### 🔧 Technologies & Tools
 
-- **Languages**: C#, JavaScript, HTML5, CSS3
-- **Frameworks**: ASP.NET Core, .NET Framework
-- **Tools**: Visual Studio, Git, Docker, SQL Server
-- **Concepts**: RESTful APIs, MVC Architecture, Role-based Access Control
+- **Languages**: Python, C#, JavaScript
+- **Frameworks**: numpy, pandas, matplotlib
+- **Tools**: Visual Studio code, Git, Docker, SQL Server
+- **Concepts**: Machine Learning, Data Analysis, RESTful APIs
 
 ### 📈 My Learning Roadmap
 
