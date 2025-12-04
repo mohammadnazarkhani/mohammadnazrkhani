@@ -3,7 +3,7 @@
 🎓 *7th-semester Computer Engineering student*  
 🤖 *Aspiring AI/ML Engineer passionate about building intelligent systems*  
 💻 Experienced in **C#/.NET** | Exploring **Python** & **Machine Learning**  
-📊 Currently learning: **Data Analysis**, **Deep Learning**, **Model Optimization**
+📊 Currently researching: **Optical Character Recognition**
 
 🌐 **My Portfolio:** [itsnazarkhani.github.io](https://itsnazarkhani.github.io/)  
 📫 **Connect with me:**  
