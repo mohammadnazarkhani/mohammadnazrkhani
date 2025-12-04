@@ -31,7 +31,7 @@
 
 I like to help others/get help from experienced ones. Here is my Stack Overflow reputation:
 
-<a href="https://stackoverflow.com/users/20936723/itsnazarkhani"><img src="https://stackoverflow.com/users/flair/20936723.png" width="208" height="58" alt="profile for ItsNazarkhani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ItsNazarkhani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+[![StackOverflow Profile](https://stackoverflow.com/users/flair/20936723.png?theme=dark)](https://stackoverflow.com/users/20936723/itsnazarkhani)
 
 ### 🚀 My Learning Journey
 
