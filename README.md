@@ -39,7 +39,8 @@ I'm continuously learning and expanding my skillset — here’s my verified lea
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6472177dc4ec366ad5aeffba?variant=dark&roadmaps=%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsnazarkhani&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=itsnazarkhani&theme=tokyonight&hide_border=true
+)
 
 ---
 
