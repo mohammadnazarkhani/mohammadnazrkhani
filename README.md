@@ -43,9 +43,7 @@ I like to help others/get help from experienced ones. Here is my Stack Overflow 
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/itsnazarkhani)
 
-![HackerRank Stats](https://hackerrank-profile.vercel.app/api?username=itsnazarkhani&theme=dark)
-
-
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/itsnazarkhani)](https://www.hackerrank.com/itsnazarkhani)
 
 ### 🚀 My Learning Journey
 
