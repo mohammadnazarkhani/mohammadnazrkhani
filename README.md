@@ -33,10 +33,18 @@ I like to help others/get help from experienced ones. Here is my Stack Overflow 
 
 [![StackOverflow Profile](https://stackoverflow.com/users/flair/20936723.png?theme=dark)](https://stackoverflow.com/users/20936723/itsnazarkhani)
 
+## Competitive Programming Profiles
+
 ### LeetCode Profile
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/itsnazarkhani/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/itsnazarkhani?theme=dark&ext=heatmap)
+
+### HackerRank
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/itsnazarkhani)
+
+![HackerRank Stats](https://hackerrank-profile.vercel.app/api?username=itsnazarkhani&theme=dark)
+
 
 
 ### 🚀 My Learning Journey
