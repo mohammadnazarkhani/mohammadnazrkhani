@@ -33,6 +33,12 @@ I like to help others/get help from experienced ones. Here is my Stack Overflow 
 
 [![StackOverflow Profile](https://stackoverflow.com/users/flair/20936723.png?theme=dark)](https://stackoverflow.com/users/20936723/itsnazarkhani)
 
+### LeetCode Profile
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/itsnazarkhani/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/itsnazarkhani?theme=dark&ext=heatmap)
+
+
 ### 🚀 My Learning Journey
 
 I'm continuously learning and expanding my skillset — here’s my verified learning roadmap:
